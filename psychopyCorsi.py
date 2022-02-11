@@ -1,5 +1,5 @@
 #! /bin/python3.7
-# Safaa Habib
+# Nicolas Fricker
 
 import psychopy
 from psychopy import visual, core, event, gui, data, logging, colors
